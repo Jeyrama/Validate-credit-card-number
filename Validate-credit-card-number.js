@@ -37,3 +37,5 @@ function validate(n) {
     return sum + digit;
   }, 0) % 10 == 0;
 }
+
+// or
